@@ -2,9 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Maths for Data science',
+  description: "Welcome to your introduction to the maths behind data science! This blog is designed for beginners who want to build a solid foundation in key mathematical concepts like algebra, calculus, probability, and statistics.",
 }
 
 export default function RootLayout({
